@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather viewer</string>
+    <string name="home">الرئيسية</string>
+    <string name="favorite">المفضلة</string>
+    <string name="setting">الاعدادات</string>
+    <string name="shape">الشكل</string>
+    <string name="current_city">المدينة الحالية</string>
+    <string name="_20_2_2021">0</string>
+    <string name="_11_11">11:11</string>
+    <string name="current_mode">الوضع الحالى</string>
+    <string name="_c">ْ C</string>
+    <string name="mostly_clear">Mostly Clear</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arrow">arrow</string>
+    <string name="current">الحالى</string>
+    <string name="daily">يومى</string>
+    <string name="hourly">على مدار الساعة</string>
+    <string name="humidity">Humidity</string>
+    <string name="_40">40%</string>
+    <string name="wind_speed">سرعة الرياح</string>
+    <string name="pressure">الضغط</string>
+    <string name="clouds">السحب</string>
+    <string name="more_details">المزيد من التفاصيل</string>
+    <string name="down">اسفل</string>
+    <string name="title_activity_map">خريطه</string>
+    <string name="api_key">517a14f849e519bb4fa84cdbd4755f56</string>
+    <string name="minutely">minutely</string>
+    <string name="her_yoy_can_change_units_of_measurement_as_you_want">هنا يمكنك تغير وحدات القياس</string>
+    <string name="standard">اساسي</string>
+    <string name="metric">متري</string>
+    <string name="imperial">إمبراطوري</string>
+    <string name="temperature_in_kelvin_and_wind_speed_in_meter_sec">درجة الحرارة بالكلفن وسرعة الرياح بالمتر / ثانية</string>
+    <string name="celsius_and_wind_speed_in_meter_sec">درجه الحرارة بمئوية وسرعة الرياح بالمتر / ثانية</string>
+    <string name="temperature_in_fahrenheit_and_wind_speed_in_miles_hour">درجة الحرارة بالفهرنهايت وسرعة الرياح بالأميال / ساعة</string>
+    <string name="her_you_can_chose_language">هنا يمكنك اختيار اللغة</string>
+    <string name="english">اللغه الانجليزية</string>
+    <string name="arabic">اللغه العربية</string>
+    <string name="save">حفظ</string>
+    <string name="sunset">غروب الشمس</string>
+    <string name="sunrise">شروق الشمس</string>
+    <string name="image">صورة</string>
+    <string name="reload">اعادة تحميل</string>
+    <string name="_1268">1268</string>
+    <string name="add_fav">اضافه مفضله</string>
+    <string name="top">top</string>
+    <string name="gps">نظام تحديد المواقع</string>
+    <string name="add_custom_location">إضافة موقع محدد</string>
+    <string name="her_you_can_chose_your_location_setting">هنا يمكنك اختيار إعداد الموقع الخاص بك</string>
+    <string name="alert">انذار</string>
+    <string name="details">تفاصيل</string>
+    <string name="title_activity_splash">دفقة</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main">الشاشة الرئيسية</string>
+    <string name="snow">ثلج</string>
+    <string name="enable_alarm">تفعيل الانذارات</string>
+    <string name="event">حدث</string>
+    <string name="start">البداية</string>
+    <string name="end">النهاية</string>
+    <string name="description">الوصف</string>
+    <string name="no_data_available">البيانات غير متوفرة</string>
+    <string name="logo">شعار</string>
+    <string name="you_are_offline">انت غير متصل بالانترنت</string>
+    <string name="there_is_missed_data">هناك داتا مفقودة</string>
+    <string name="to_load_condetions">لتحميل بيانات الطقس الحالية ، يجب عليك تمكين الموقع</string>
+    <string name="you_areoffline">انت غير متصل بالانترنت</string>
+    <string name="are_you_sure">هل انت متاكد؟</string>
+    <string name="you_want_to_add">تريد إضافة هذا الموقع إلى الأماكن المفضلة</string>
+    <string name="cant_create_alert_at_this_time">لا يمكنك انشاء تنبيه في وقت سابق</string>
+    <string name="alert_name">اسم التنبيه</string>
+    <string name="untitled">غير مسمى</string>
+    <string name="reputation">التكرار</string>
+    <string name="from">من</string>
+    <string name="to">الى</string>
+    <string name="cancel">الغاء</string>
+    <string name="add_alert">اضافة تنبية</string>
+    <string name="data_saaved">حفظ البيانات</string>
+    <string name="weather_alert">تنبيه الطقس</string>
+    <string name="load_from_last_known_data">تحميل من آخر البيانات المعروفة</string>
+    <string name="location_not_enabel">الموقع غير ممكن</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="are_you_sure_location">تريد إضافة هذا الموقع لتخزينه كموقعك</string>
+    <string name="enabel">تفعيل</string>
+    <string name="take_care">\"انتبه الطقس الان  \"</string>
+    <string name="reputation_daily">تكرار يومى</string>
+    <string-array name="alert">
+        <item>عاصفة</item>
+        <item>رذاذ</item>
+        <item>مطر</item>
+        <item>ثلج</item>
+        <item>غيوم</item>
+    </string-array>
+</resources>

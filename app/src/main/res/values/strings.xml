@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Weather viewer</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="shape">shape</string>
+    <string name="current_city">Current City</string>
+    <string name="_20_2_2021">1</string>
+    <string name="_11_11">11:11</string>
+    <string name="current_mode">current mode</string>
+    <string name="_c">ْ C</string>
+    <string name="mostly_clear">Mostly Clear</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arrow">arrow</string>
+    <string name="current">Current</string>
+    <string name="daily">Daily</string>
+    <string name="hourly">Hourly</string>
+    <string name="humidity">Humidity</string>
+    <string name="_40">40%</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="clouds">Clouds</string>
+    <string name="more_details">More Details</string>
+    <string name="down">down</string>
+    <string name="title_activity_map">Map</string>
+    <string name="api_key">517a14f849e519bb4fa84cdbd4755f56</string>
+    <string name="minutely">minutely</string>
+    <string name="her_yoy_can_change_units_of_measurement_as_you_want">Here yoy can change units of measurement as you want</string>
+    <string name="standard">standard</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="temperature_in_kelvin_and_wind_speed_in_meter_sec">Temperature in Kelvin and wind speed in meter/sec</string>
+    <string name="celsius_and_wind_speed_in_meter_sec">Celsius and wind speed in meter/sec</string>
+    <string name="temperature_in_fahrenheit_and_wind_speed_in_miles_hour">temperature in Fahrenheit and wind speed in miles/hour</string>
+    <string name="her_you_can_chose_language">Here you can chose language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="save">Save</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="image">image</string>
+    <string name="reload">reload</string>
+    <string name="_1268">1268</string>
+    <string name="add_fav">add fav</string>
+    <string name="top">top</string>
+    <string name="gps">Gps</string>
+    <string name="add_custom_location">Add Custom Location</string>
+    <string name="her_you_can_chose_your_location_setting">Here you can choose your location setting</string>
+    <string name="alert">Alert</string>
+    <string name="details">Details</string>
+    <string name="title_activity_splash">Splash</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="snow">snow</string>
+    <string name="enable_alarm">Enable Alarm</string>
+    <string name="event">Event</string>
+
+    <string name="description">Description</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="logo">logo</string>
+    <string name="you_are_offline">You Are Offline</string>
+    <string name="there_is_missed_data">There is Missed Data</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="alert_name">Alert Name</string>
+    <string name="untitled">UnTitled</string>
+    <string name="reputation">Reputation</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_alert">Add Alert</string>
+    <string name="data_saaved">Data Saved</string>
+    <string name="weather_alert">Weather Alert</string>
+    <string name="load_from_last_known_data">Load From Last Known data</string>
+    <string name="location_not_enabel">Location Not enable</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_location">you want to add this location to store as your location</string>
+    <string name="enabel">Enable</string>
+    <string name="to_load_condetions">To load the current weather data you have to enable location</string>
+    <string name="you_areoffline">You are offline</string>
+    <string name="are_you_sure">Are you Sure</string>
+    <string name="cant_create_alert_at_this_time">can\'t create alert at this time</string>
+    <string name="you_want_to_add">you want to add this location to favourite places</string>
+    <string name="take_care">\"Take care he Weather is \"</string>
+    <string name="reputation_daily">Reputation daily</string>
+
+    <string-array name="alert">
+        <item>thunderstorm</item>
+        <item>drizzle</item>
+        <item>rain</item>
+        <item>snow</item>
+        <item>clouds</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="last_update">Last Update</string>
+</resources>
